@@ -1,3 +1,4 @@
+import grid from './grid.js'
 const number = {
     numbers: [],
     getE: function () {
